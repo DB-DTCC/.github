@@ -1,6 +1,7 @@
-## Hi there 👋
+![](banner.jpeg)
 
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
